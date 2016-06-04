@@ -1,2 +1,2 @@
 # Java-Chess
-cs213 Chess assignment - oop
+Chess program focusing on object oriented programming. Output and board displayed with text.
